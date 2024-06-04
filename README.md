@@ -2,7 +2,7 @@
 
 ## **Me chamo *Vinicius* e meu apelido é *Vinas*!**
 
-Sou formado em gestão financeira e, atualmente, me dedico a aprender programação para realizar uma transição de carreira. Estou no início dos estudos e ainda não escolhi uma linguagem para me aprimorar, mas já decidi que vou para a área de desenvolvedor Back-End.
+Sou formado em gestão financeira e, atualmente, me dedico a aprender programação para realizar uma transição de carreira. Estou no início dos estudos e ainda não escolhi uma linguagem para me aprimorar, mas já decidi que vou ser desenvolvedor Back-End.
 
 Nas horas vagas eu jogo vídeo game e faço vídeos para meu canal no YouTube apresentando os jogos que joguei.
 
